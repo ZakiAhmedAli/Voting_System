@@ -47,7 +47,6 @@ while(1)
 {
 	UART_voidUpdta();
 
-	}
 }
 
 	return 0;
